@@ -1,3 +1,2 @@
 My first readme
-updated 
-git
+I am a software engineer
